@@ -1,7 +1,9 @@
 #Flatiron Bank App
+
 Flatiron Bank App is a React-based web application designed for tracking your transactions. This project provides a hands-on experience for learning the fundamentals of React, allowing users to manage and visualize their financial transactions with ease.
 
 ##Features
+
 Transaction Overview: View all your transactions in a tabular format, including essential details such as date, description, category, and amount.
 
 Add New Transactions: Easily add new transactions using a simple form that requires a description and amount.
@@ -11,9 +13,11 @@ Search Functionality: Utilize the search bar to filter transactions by typing a 
 Delete Transactions: Remove transactions that are no longer needed, providing a flexible and user-friendly way to manage your transaction history.
 
 ##License
+
 This project is open-source and available under the MIT License. Feel free to explore, modify, and adapt it to suit your needs. For more details, refer to the LICENSE file.
 
 ##How to Use
+
 Follow these steps to set up and run the Flatiron Bank App on your local machine:
 
 Clone this repository onto your local machine using the following command:
@@ -28,6 +32,7 @@ npm start
 Open your web browser and navigate to http://localhost:3000 to access the Flatiron Bank App.
 
 ##Created by
+
 Abdul Esmail
 
 Find me on GitHub: https://github.com/abdulesmail
@@ -35,9 +40,11 @@ Find me on GitHub: https://github.com/abdulesmail
 Explore the world of Flatiron Bank App, manage your transactions effortlessly, and enjoy the journey of learning React! If you encounter any issues or have suggestions, feel free to reach out on GitHub. Happy coding!
 
 ##Getting Started with Create React App
+
 This project was bootstrapped with Create React App.
 
 ##Available Scripts
+
 In the project directory, you can run:
 
 npm start
@@ -70,6 +77,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ##Learn More
+
 You can learn more in the Create React App documentation.
 
 To learn React, check out the React documentation.
